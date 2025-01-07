@@ -17,6 +17,7 @@ const siteMetadata = {
   locale: 'en-US',
   analytics: {
     googleAnalyticsId: 'UA-110255634-1',
+    plausibleDataDomain: 'radhakrishna.net',
   },
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo
